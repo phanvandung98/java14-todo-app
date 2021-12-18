@@ -1,2 +1,1 @@
-# java14-todo-app
-GIT demo: TODO-APP project
+VERSION: TODO-APP-1.0-SNAPSHOT
